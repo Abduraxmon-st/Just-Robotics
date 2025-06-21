@@ -28,7 +28,7 @@ export const Navbar = () => {
             <li><a href='#'>Контакты</a></li>
          </ul>
         </nav>
-        <Button variant='custom' className='hidden md:block xl:h-[62px] md:h-[50px] xl:px-[54px] md:px-5 font-bold xl:text-2xl md:text-xl leading-[100%] tracking-[0%] uppercase'>Позвонить</Button>
+        <Button className='hidden md:block xl:h-[62px] md:h-[50px] xl:px-[54px] md:px-5 font-bold xl:text-2xl md:text-xl leading-[100%] tracking-[0%] uppercase bg-[#ffe000] text-black shadow-[0px_0px_16px_0px_#FFDE00B2]'>Позвонить</Button>
         <div className='flex justify-center items-center gap-[10px]'>
           <Tabs defaultValue="uz" className="xl:w-41 md:w-30">
             <TabsList className='w-full h-[30px] xl:h-13 bg-black p-0'>
