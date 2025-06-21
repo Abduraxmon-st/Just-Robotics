@@ -1,7 +1,7 @@
 import { Footer } from '@/components/Footer'
 import { Navbar } from '@/components/Navbar'
 import React from 'react'
-import BgImage from '../assets/img/dotline.png'
+import BgImage from '../assets/img/dotLine.png'
 import Robot from '../assets/img/orangeRobot.png'
 import CardPic1 from '../assets/img/cardPic.png'
 import CardPic2 from '../assets/img/card_2.png'
